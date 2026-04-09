@@ -31,14 +31,10 @@
 <img src="readme-blocks/stats-block.svg" alt="stats" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
 <div align="center">
 
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsrealfortune&show_icons=true&theme=dark&bg_color=1a0a0a&title_color=ff4b4b&icon_color=ffd166&text_color=ffffff&border_color=ff4b4b&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsrealfortune&layout=compact&theme=dark&bg_color=1a0a0a&title_color=ff4b4b&text_color=ffffff&border_color=ffd166&langs_count=6" height="180" alt="Top Languages" /> -->
-<img src="./itsrealfortune-card.svg" alt="card" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=itsrealfortune&theme=dark&background=1a0a0a&ring=ff4b4b&fire=ffd166&currStreakLabel=ffd166&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=ff4b4b" height="180" alt="Streak stats" />
+<!-- <img src="https://streak-stats.demolab.com?user=itsrealfortune&theme=dark&background=1a0a0a&ring=ff4b4b&fire=ffd166&currStreakLabel=ffd166&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=ff4b4b" height="180" alt="Streak stats" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrealfortune&bg_color=1a0a0a&color=ffd166&line=ff4b4b&point=ffffff&area=true&area_color=ff4b4b&border_color=ff4b4b" width="95%" alt="Activity Graph" />
 
 </div>
