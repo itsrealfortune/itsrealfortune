@@ -114,57 +114,6 @@
         </div>
       </div>
 
-      <div class="divider" style="display:flex; align-items:center; gap:12px; margin:2rem 0; color:rgba(255,75,75,0.4); font-size:10px; font-family:'Space Mono', monospace; letter-spacing:3px;">
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
-        <span style="padding:0 8px;">✦ timeline ✦</span>
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
-      </div>
-
-      <div class="section-label" style="font-family:'Space Mono', monospace; font-size:11px; color:#ff4b4b; letter-spacing:3px; text-transform:uppercase; margin-bottom:1rem; display:flex; align-items:center; gap:8px;">git log --oneline --timeline</div>
-
-      <div class="timeline" style="position:relative; padding-left:1.5rem; margin-bottom:1.5rem;">
-        <div style="position:absolute; left:0; top:6px; bottom:6px; width:1px; background: linear-gradient(180deg, #ff4b4b, #ffd166, rgba(255,209,102,0.1));"></div>
-        <div class="timeline-item" style="position:relative; padding:0 0 1.2rem 1rem;">
-          <span style="position:absolute; left:-1.7rem; top:4px; width:10px; height:10px; border-radius:50%; background:#ffd166; border:2px solid #ffd166;"></span>
-          <div class="timeline-year" style="font-family:'Space Mono', monospace; font-size:10px; color:#ffd166; letter-spacing:2px; margin-bottom:3px;">2026 · HEAD</div>
-          <div class="timeline-text" style="font-family:'Space Mono', monospace; font-size:12px; color:rgba(255,255,255,0.7); line-height:1.5;">Starting Psychology degree path</div>
-        </div>
-        <div class="timeline-item" style="position:relative; padding:0 0 1.2rem 1rem;">
-          <span style="position:absolute; left:-1.6rem; top:6px; width:8px; height:8px; border-radius:50%; background:#1a0a0a; border:2px solid #ff4b4b;"></span>
-          <div class="timeline-year" style="font-family:'Space Mono', monospace; font-size:10px; color:#ffd166; letter-spacing:2px; margin-bottom:3px;">2025–2026</div>
-          <div class="timeline-text" style="font-family:'Space Mono', monospace; font-size:12px; color:rgba(255,255,255,0.7); line-height:1.5;">Physics degree milestone reached</div>
-        </div>
-        <div class="timeline-item" style="position:relative; padding:0 0 1.2rem 1rem;">
-          <span style="position:absolute; left:-1.6rem; top:6px; width:8px; height:8px; border-radius:50%; background:#1a0a0a; border:2px solid #ff4b4b;"></span>
-          <div class="timeline-year" style="font-family:'Space Mono', monospace; font-size:10px; color:#ffd166; letter-spacing:2px; margin-bottom:3px;">2025</div>
-          <div class="timeline-text" style="font-family:'Space Mono', monospace; font-size:12px; color:rgba(255,255,255,0.7); line-height:1.5;">Launched YouTube channel — game storytelling</div>
-        </div>
-        <div class="timeline-item" style="position:relative; padding:0 0 1.2rem 1rem;">
-          <span style="position:absolute; left:-1.6rem; top:6px; width:8px; height:8px; border-radius:50%; background:#1a0a0a; border:2px solid #ff4b4b;"></span>
-          <div class="timeline-year" style="font-family:'Space Mono', monospace; font-size:10px; color:#ffd166; letter-spacing:2px; margin-bottom:3px;">2024</div>
-          <div class="timeline-text" style="font-family:'Space Mono', monospace; font-size:12px; color:rgba(255,255,255,0.7); line-height:1.5;">Research internship @ NVIDIA — AI &amp; scientific computing</div>
-        </div>
-        <div class="timeline-item" style="position:relative; padding:0 0 1.2rem 1rem;">
-          <span style="position:absolute; left:-1.6rem; top:6px; width:8px; height:8px; border-radius:50%; background:#1a0a0a; border:2px solid #ff4b4b;"></span>
-          <div class="timeline-year" style="font-family:'Space Mono', monospace; font-size:10px; color:#ffd166; letter-spacing:2px; margin-bottom:3px;">2024–2025</div>
-          <div class="timeline-text" style="font-family:'Space Mono', monospace; font-size:12px; color:rgba(255,255,255,0.7); line-height:1.5;">Astrophysics @ Université de Caen + barista side life</div>
-        </div>
-      </div>
-
-      <div class="divider" style="display:flex; align-items:center; gap:12px; margin:2rem 0; color:rgba(255,75,75,0.4); font-size:10px; font-family:'Space Mono', monospace; letter-spacing:3px;">
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
-        <span style="padding:0 8px;">✦ fortune --quote ✦</span>
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
-      </div>
-
-      <div class="quote-block" style="border:1px solid rgba(255,209,102,0.2); border-left:3px solid #ffd166; background:rgba(255,209,102,0.04); border-radius:0 10px 10px 0; padding:1.2rem 1.5rem; margin-bottom:1.5rem; font-family:'Space Mono', monospace; font-style:italic; font-size:13px; color:rgba(255,255,255,0.8); line-height:1.7; position:relative;">
-        <span style="position:absolute; top:-8px; left:16px; font-size:40px; color:rgba(255,209,102,0.3); font-style:normal; font-family:'Syne', sans-serif; line-height:1;">"</span>
-        Science is just storytelling with math.
-        <span class="quote-attr" style="display:block; margin-top:8px; font-style:normal; font-size:10px; color:#ffd166; letter-spacing:2px;">— Fortune, probablement</span>
-      </div>
-
-      <div class="footer-text" style="text-align:center; font-family:'Space Mono', monospace; font-size:11px; color:rgba(255,255,255,0.25); margin-top:2rem; letter-spacing:1px; font-style:italic;">made with curiosity, caffeine, and cosmic dust ✦</div>
-
     </div>
   </foreignObject>
 </svg>
