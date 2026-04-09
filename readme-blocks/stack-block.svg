@@ -3,10 +3,10 @@
   <foreignObject x="0" y="0" width="900" height="80">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Space Mono', monospace; background: transparent; color: #ffffff; padding: 0.5rem 0 2rem; max-width: 860px; margin: 0 auto;">
 
-      <div class="divider" style="display:flex; align-items:center; gap:12px; margin:2rem 0; color:rgba(255,75,75,0.4); font-size:10px; font-family:'Space Mono', monospace; letter-spacing:3px;">
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
+      <div class="divider" style="display:flex; align-items:center; gap:12px; margin:2rem 0; color:rgba(255, 16, 16,1); font-size:10px; font-family:'Space Mono', monospace; letter-spacing:3px;">
+        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255, 16, 16,0.9), transparent); display:block;"></span>
         <span style="padding:0 8px;">✦ stack ✦</span>
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
+        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255, 16, 16,0.9), transparent); display:block;"></span>
       </div>
       <!-- <div class="stack-pills" style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:1.5rem;" align="center">
         <span class="pill pill-ts" style="padding:5px 12px; border-radius:20px; font-family:'Space Mono', monospace; font-size:11px; font-weight:700; border:1px solid rgba(49,120,198,0.3); background:rgba(49,120,198,0.15); color:#6baed6;">TypeScript</span>

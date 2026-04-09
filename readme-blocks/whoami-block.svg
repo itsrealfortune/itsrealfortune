@@ -8,7 +8,7 @@
         whoami
       </div>
 
-      <div class="code-block" style="background: rgba(26,10,10,0.6); border: 1px solid rgba(255,75,75,0.15); border-left: 2px solid #ff4b4b; border-radius:8px; padding:1.2rem 1.4rem; font-family:'Space Mono', monospace; font-size:12px; line-height:1.7; color:rgba(255,255,255,0.8); white-space:pre; overflow-x:auto; margin-bottom:1.5rem;">
+      <div class="code-block" style="background: rgba(26,10,10,0.6); border: 1px solid rgba(255, 16, 16,0.15); border-left: 2px solid #ff4b4b; border-radius:8px; padding:1.2rem 1.4rem; font-family:'Space Mono', monospace; font-size:12px; line-height:1.7; color:rgba(255,255,255,0.8); white-space:pre; overflow-x:auto; margin-bottom:1.5rem;">
 <span style="color:#ff4b4b;">const</span> <span style="color:#ffffff;">fortune</span><span style="color:#ffb347;">: Human</span> = {
   <span style="color:#ff4b4b;">name</span>:     <span style="color:#ffd166;">"Chloé Rolzhausen"</span>,
   <span style="color:#ff4b4b;">alias</span>:    <span style="color:#ffd166;">"Fortune"</span>,

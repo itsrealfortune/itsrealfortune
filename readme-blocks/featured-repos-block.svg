@@ -3,31 +3,31 @@
   <foreignObject x="0" y="0" width="900" height="380">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Space Mono', monospace; background: transparent; color: #ffffff; padding: 0.5rem 0 2rem; max-width: 860px; margin: 0 auto;">
 
-      <div class="divider" style="display:flex; align-items:center; gap:12px; margin:2rem 0; color:rgba(255,75,75,0.4); font-size:10px; font-family:'Space Mono', monospace; letter-spacing:3px;">
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
+      <div class="divider" style="display:flex; align-items:center; gap:12px; margin:2rem 0; color:rgba(255, 16, 16,1); font-size:10px; font-family:'Space Mono', monospace; letter-spacing:3px;">
+        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255, 16, 16,0.9), transparent); display:block;"></span>
         <span style="padding:0 8px;">✦ featured repos ✦</span>
-        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255,75,75,0.3), transparent); display:block;"></span>
+        <span style="flex:1; height:1px; background: linear-gradient(90deg, transparent, rgba(255, 16, 16,0.9), transparent); display:block;"></span>
       </div>
 
       <div class="section-label" style="font-family:'Space Mono', monospace; font-size:11px; color:#ff4b4b; letter-spacing:3px; text-transform:uppercase; margin-bottom:1rem; display:flex; align-items:center; gap:8px;">ls ./repos --featured</div>
 
       <div class="grid-2" style="display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin-bottom:1.5rem;">
-        <div class="card" style="background:rgba(255,75,75,0.04); border:1px solid rgba(255,75,75,0.15); border-radius:10px; padding:1.2rem;">
+        <div class="card" style="background:rgba(255, 16, 16,0.04); border:1px solid rgba(255, 16, 16,0.15); border-radius:10px; padding:1.2rem;">
           <div class="card-title" style="font-family:'Syne', sans-serif; font-weight:700; font-size:13px; color:#ffd166; margin-bottom:6px; display:flex; align-items:center; gap:6px;"><span class="icon" style="font-size:14px;">🤖</span> discord-interactions-handler</div>
           <div class="card-desc" style="font-family:'Space Mono', monospace; font-size:11px; color:rgba(255,255,255,0.5); line-height:1.6;">Clean TypeScript handler for Discord slash commands and interactions.</div>
           <a class="card-link" href="https://github.com/itsrealfortune/discord-interactions-handler" style="display:inline-block; margin-top:10px; font-size:10px; color:#ff4b4b; font-family:'Space Mono', monospace; text-decoration:none; letter-spacing:1px;">→ view repo</a>
         </div>
-        <div class="card" style="background:rgba(255,75,75,0.04); border:1px solid rgba(255,75,75,0.15); border-radius:10px; padding:1.2rem;">
+        <div class="card" style="background:rgba(255, 16, 16,0.04); border:1px solid rgba(255, 16, 16,0.15); border-radius:10px; padding:1.2rem;">
           <div class="card-title" style="font-family:'Syne', sans-serif; font-weight:700; font-size:13px; color:#ffd166; margin-bottom:6px; display:flex; align-items:center; gap:6px;"><span class="icon" style="font-size:14px;">🧪</span> fakesocial-typescript-sdk</div>
           <div class="card-desc" style="font-family:'Space Mono', monospace; font-size:11px; color:rgba(255,255,255,0.5); line-height:1.6;">TypeScript SDK for building FakeSocial integrations faster.</div>
           <a class="card-link" href="https://github.com/itsrealfortune/fakesocial-typescript-sdk" style="display:inline-block; margin-top:10px; font-size:10px; color:#ff4b4b; font-family:'Space Mono', monospace; text-decoration:none; letter-spacing:1px;">→ view repo</a>
         </div>
-        <div class="card" style="background:rgba(255,75,75,0.04); border:1px solid rgba(255,75,75,0.15); border-radius:10px; padding:1.2rem;">
+        <div class="card" style="background:rgba(255, 16, 16,0.04); border:1px solid rgba(255, 16, 16,0.15); border-radius:10px; padding:1.2rem;">
           <div class="card-title" style="font-family:'Syne', sans-serif; font-weight:700; font-size:13px; color:#ffd166; margin-bottom:6px; display:flex; align-items:center; gap:6px;"><span class="icon" style="font-size:14px;">⚡</span> KAPI</div>
           <div class="card-desc" style="font-family:'Space Mono', monospace; font-size:11px; color:rgba(255,255,255,0.5); line-height:1.6;">CLI tool to bootstrap projects without repetitive setup.</div>
           <a class="card-link" href="https://github.com/itsrealfortune/KAPI" style="display:inline-block; margin-top:10px; font-size:10px; color:#ff4b4b; font-family:'Space Mono', monospace; text-decoration:none; letter-spacing:1px;">→ view repo</a>
         </div>
-        <div class="card" style="background:rgba(255,75,75,0.04); border:1px solid rgba(255,75,75,0.15); border-radius:10px; padding:1.2rem;">
+        <div class="card" style="background:rgba(255, 16, 16,0.04); border:1px solid rgba(255, 16, 16,0.15); border-radius:10px; padding:1.2rem;">
           <div class="card-title" style="font-family:'Syne', sans-serif; font-weight:700; font-size:13px; color:#ffd166; margin-bottom:6px; display:flex; align-items:center; gap:6px;"><span class="icon" style="font-size:14px;">🌐</span> itsrealfortune.github.io</div>
           <div class="card-desc" style="font-family:'Space Mono', monospace; font-size:11px; color:rgba(255,255,255,0.5); line-height:1.6;">Personal static site — where identity meets design.</div>
           <a class="card-link" href="https://itsrealfortune.fr" style="display:inline-block; margin-top:10px; font-size:10px; color:#ff4b4b; font-family:'Space Mono', monospace; text-decoration:none; letter-spacing:1px;">→ live site</a>
