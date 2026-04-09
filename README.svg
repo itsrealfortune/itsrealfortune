@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="2100" viewBox="0 0 900 3600" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <foreignObject x="0" y="0" width="900" height="2100">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 3600" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <foreignObject x="0" y="0" width="900" height="1200">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Space Mono', monospace; background: transparent; color: #ffffff; padding: 0.5rem 0 2rem; max-width: 860px; margin: 0 auto;">
 
       <div class="header-block" style="background: linear-gradient(135deg, #1a0a0a 0%, #2d0f0f 50%, #1a0a0a 100%); border-radius: 16px; padding: 2.5rem 2rem; text-align: center; margin-bottom: 2rem; border: 1px solid rgba(255,75,75,0.3); position: relative; overflow: hidden;">
