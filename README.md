@@ -30,10 +30,6 @@
 </div>
 <img src="readme-blocks/stats-block.svg" alt="stats" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
 <div align="center">
-
-
-<br/><br/>
-
 <!-- <img src="https://streak-stats.demolab.com?user=itsrealfortune&theme=dark&background=1a0a0a&ring=ff4b4b&fire=ffd166&currStreakLabel=ffd166&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=ff4b4b" height="180" alt="Streak stats" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrealfortune&bg_color=1a0a0a&color=ffd166&line=ff4b4b&point=ffffff&area=true&area_color=ff4b4b&border_color=ff4b4b" width="95%" alt="Activity Graph" />
 
