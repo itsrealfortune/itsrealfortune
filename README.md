@@ -39,6 +39,5 @@
 <img src="readme-blocks/timeline-block.svg" alt="timeline" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
 <img src="readme-blocks/quote-block.svg" alt="quote" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
 <img src="readme-blocks/footer-block.svg" alt="footer" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
-<img src="readme-blocks/footer-block.svg" alt="footer" style="width:100%; max-width:900px; height:auto; display:block; margin:0;" />
 
 
